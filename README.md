@@ -2,9 +2,8 @@
 [![License: Apache License 2.0](https://img.shields.io/badge/License-Apache%20License%202.0-c00747.svg?style=for-the-badge&logo=apache)](https://www.apache.org/licenses/LICENSE-2.0)
 ## Table of content:<br/>
 ### 1. [Downloads](https://github.com/Exyrus/discordtranslate#downloads)<br/>
-### 2. [How to run the Script?](https://github.com/Exyrus/discordtranslate#run-the-Script)<br/>
-### 3. [How to use DiscordTranslate?](https://github.com/Exyrus/discordtranslate#how-to-use-DiscordTranslate)<br/>
-### 4. [Troubleshoot](https://github.com/Exyrus/discordtranslate#Troubleshoot)<br/>
+### 2. [How to use DiscordTranslate?](https://github.com/Exyrus/discordtranslate#how-to-use-DiscordTranslate)<br/>
+### 3. [Troubleshoot](https://github.com/Exyrus/discordtranslate#Troubleshoot)<br/>
 ## Downloads<br>
 
 
