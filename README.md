@@ -7,7 +7,7 @@
 ### 4. [Troubleshoot](https://github.com/Exyrus/discordtranslate#Troubleshoot)<br/>
 ## Downloads<br>
 
-[download badge](https://img.shields.io/badge/Download%20"+title.replace(' ', '%20')+"-now-181717?style=for-the-badge&color=black)]("+sc.nextLine()+")<br>
+[download badge](https://img.shields.io/badge/Download-Download%20DiscordTranslate-blue)<br>
 <br>
 ## About the bot.
 <br>DiscordTranslate is a bot that can translate to most languages using the Google Translate API.
